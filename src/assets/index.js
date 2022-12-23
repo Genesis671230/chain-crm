@@ -1,0 +1,5 @@
+export {default as BellIcon} from "./bell.svg"
+export {default as BoxIcon} from "./Box.svg"
+export {default as CardPaymentIcon} from "./cardPayment.svg"
+export {default as HomeIcon} from "./homeIcon.svg"
+export {default as PaperIcon} from "./papers.svg"
